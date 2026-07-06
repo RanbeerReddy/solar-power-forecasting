@@ -6,7 +6,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Enabled-2f8f3f)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Project Banner](https://via.placeholder.com/1200x320.png?text=Solar+Power+Forecasting)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21225670.svg)](https://doi.org/10.5281/zenodo.21225670)
 
 ## Overview
 
