@@ -121,12 +121,12 @@ The notebook reports:
 
 The exact metrics are generated when the notebook is executed. The repository preserves the evaluation workflow and exports figures to [figures/README.md](figures/README.md) for documentation.
 
-| Model | MAE | RMSE | R² |
-|------|----:|-----:|---:|
-| Linear Regression | Pending | Pending | Pending |
-| Random Forest | Pending | Pending | Pending |
-| XGBoost / Gradient Boosting | Pending | Pending | Pending |
-| LSTM | Pending | Pending | Pending |
+| Model | MAE (kW) | RMSE (kW) | R² |
+|------|--------:|----------:|---:|
+| XGBoost | 248.58 | 472.93 | 0.9965 |
+| Random Forest | 225.55 | 474.64 | 0.9964 |
+| Linear Regression | 280.66 | 500.20 | 0.9960 |
+| LSTM | 1313.05 | 2587.16 | 0.8939 |
 
 ## Key Findings
 

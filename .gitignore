@@ -17,10 +17,7 @@ data/*.csv
 !data/README.md
 
 # Generated artifacts
-figures/*.png
-figures/*.jpg
-figures/*.jpeg
-figures/*.svg
+# Keep notebook-generated figures versioned for the project showcase.
 
 # OS files
 .DS_Store
