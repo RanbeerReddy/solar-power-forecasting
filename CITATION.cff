@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Solar Power Forecasting with Machine Learning"
+authors:
+  - family-names: Reddy
+    given-names: Ranbeer
+    affiliation: "Independent Research Project"
+url: "https://github.com/RanbeerReddy/solar-power-forecasting"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-06
+keywords:
+  - solar forecasting
+  - machine learning
+  - time series
+  - xgboost
+  - lstm
